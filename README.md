@@ -27,18 +27,27 @@ secure authorization boundaries
 ✨ Features
 
 ✔ User Registration & Login
+
 ✔ JWT Authentication & Authorization
+
 ✔ Follow & Followers System
+
 ✔ Personalized Tweet Feed
+
 ✔ Like & Reply Tracking
+
 ✔ Tweet Creation & Deactivation
+
 ✔ Secure Access Control
 
 🛠 Tech Stack
 
 Backend: Node.js, Express.js
+
 Database: SQLite
+
 Authentication: JWT
+
 Security: bcrypt password hashing
 
 📁 Project Structure
